@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently working on my future <br/>
+🔭 I’m currently working on my career in mobility sector <br/>
 🌱 I’m currently learning Data Analytics <br/>
 👯 I’m looking to collaborate on mobility data projects <br/>
 🤔 I’m looking for help with ... <br/>
