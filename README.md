@@ -3,10 +3,10 @@
 **oliverfurtak/oliverfurtak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🔭 I’m currently working on my future <br/>
-🌱 I’m currently learning Data Analytics
-👯 I’m looking to collaborate on great projects
-🤔 I’m looking for help with ...
-💬 Ask me about anything
-📫 How to reach me: ...
-😄 Pronouns: He, his
-⚡ Fun fact: ...
+🌱 I’m currently learning Data Analytics <br/>
+👯 I’m looking to collaborate on great projects <br/>
+🤔 I’m looking for help with ... <br/>
+💬 Ask me about anything <br/>
+📫 How to reach me: ... <br/>
+😄 Pronouns: He, his <br/>
+⚡ Fun fact: Part of my work as a visual designer is kept in the time capsule of EXTREMELY LARGE TELESCOPE that is currently under construction at Paranal, Chile. <br/>
